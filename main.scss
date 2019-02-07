@@ -1,0 +1,24 @@
+@charset "utf-8";
+@import 'include/_reset';
+@import 'include/_App';
+
+body{
+    text-align:center;}
+
+
+ul{list-style:none;
+li{margin:20px 0 20px;}
+img{display:block;
+margin:0 auto;
+width:200px;
+height:200px;
+
+}}
+
+.textbox{margin-top:40px;
+}
+.btns{margin-top:30px;
+
+
+.btn_freeword{margin-left:20px;}
+}
